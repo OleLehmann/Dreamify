@@ -3,13 +3,6 @@
 Bill of Materials Generator for Plasma Dream-Web
 =================================================
 
-Generates formatted BOM with pricing from Bathurst-sourced suppliers.
-All prices in CAD. Shipping estimates for Bathurst, NB.
-
-Author: Kevin Kull — KullAILabs
-Date: 19 April 2026
-License: MIT
-"""
 
 import json
 
