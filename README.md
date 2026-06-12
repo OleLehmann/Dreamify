@@ -97,7 +97,7 @@ Plasma-Dream-Web-Novel-Prototyping/
 ## Quick Start
 
 ```bash
-git clone https://github.com/Kuonirad/Plasma-Dream-Web-Novel-Prototyping.git
+git clone https://github.com/OleLehmann/Dreamify.git
 cd Plasma-Dream-Web-Novel-Prototyping
 # Digital twin runs in any modern browser with WebGL2
 # Open src/digital-twin/spectrogram-4d.js in your dev environment
