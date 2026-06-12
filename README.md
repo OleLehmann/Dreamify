@@ -116,10 +116,6 @@ cd Plasma-Dream-Web-Novel-Prototyping
 - Parabolic-flight MHD + argon thruster validation
 - Peer-reviewed paper: "4D Spectrogram as Real-Time Diagnostic for Streamer Coherence in DBD Systems"
 
-## Author
-
-**Kevin Kull** — [KullAILabs](https://github.com/Kuonirad)
-Bathurst, New Brunswick, Canada
 
 ## License
 
