@@ -1,6 +1,6 @@
 # Plasma Dream-Web: Novel Prototyping Report v2.2
 
-**A Hierarchical Engineered System for Plasma Visualization, Bio-Stimulation, Environmental Remediation & Advanced Argon/MHD Applications**
+**A Hierarchical Dream-Engineered System for Plasma Visualization, Bio-Stimulation, Environmental Remediation & Advanced Argon/MHD Applications**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-2.2-blue.svg)]()
