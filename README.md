@@ -8,7 +8,7 @@
 
 ## Overview
 
-The Plasma Dream-Web is the world's first open-source **5-level hierarchical plasma system** that converts the stochastic beauty of dielectric barrier discharge (DBD) filaments into a scientifically instrumented, visually transcendent, and practically deployable platform.
+The Plasma Dream-Web is the world's first open-source **5-level hierarchical plasma system** that converts the stochastic beauty of dielectric barrier discharge (DBD) filaments into a scientifically instrumented, visually transcendent portal for **visualizing your dreams**.
 
 **v2.2 additions:**
 - Full argon plasma applications (low-pressure excimer UV, sterilization, surface activation)
